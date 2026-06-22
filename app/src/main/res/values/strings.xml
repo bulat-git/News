@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">News</string>
+    <string name="subscriptions_title">News</string>
+    <string name="search_bar_label">Search</string>
+    <string name="add_subscription">Add subscription</string>
+    <string name="subscriptions_label">Subscriptions (%1$d)</string>
+    <string name="read_article">Read</string>
+    <string name="share_article">Share</string>
+    <string name="articles_counter">Articles: %1$d</string>
+    <string name="empty_articles_message">Is not articles here</string>
+    <string name="new_articles">New articles</string>
+    <string name="new_articles_title">New Articles</string>
+    <string name="russian_language">Russian</string>
+    <string name="english_language">English</string>
+    <string name="german_language">German</string>
+    <string name="french_language">French</string>
+    <string name="japanese_language">日本語</string>
+    <string name="_15_minutes">15 minutes</string>
+    <string name="_30_minutes">30 minutes</string>
+    <string name="_1_hour">1 hour</string>
+    <string name="_6_hours">6 hours</string>
+    <string name="_24_hours">24 hours</string>
+    <string name="chosen_news_language">Chosen news language</string>
+</resources>
