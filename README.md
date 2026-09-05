@@ -1,4 +1,4 @@
-A news aggregator built on MVVM(singlemodal) architecture and using newsapi.org API
+A news aggregator built on MVVM(single module) architecture and using newsapi.org API
 
 Technology stack:
 Network - Retrofit
